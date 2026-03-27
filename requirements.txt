@@ -4,3 +4,6 @@ scikit-learn
 streamlit
 fastapi
 uvicorn
+opencv-python
+mediapipe
+streamlit-webrtc
